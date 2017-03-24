@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Unicase|Kanit');
+
+body{
+    background-color:red;
+}
+
+p {
+    background-color:white;
+    color:black;
+    font-family:'Delius Unicase',cursive;
+    padding:30px;
+    font-size:15px;
+    border: 3px solid black; 
+}
+
+h1{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family:'Delius Unicase', cursive;
+    border: 5px solid white;
+}
+
+.family:hover {
+        border-radius:50%;
+}
+
+.family2:hover {
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}
+
+}
+#button {
+    height: 20px;
+    width: 20px;
+    font-size:20px;
+}

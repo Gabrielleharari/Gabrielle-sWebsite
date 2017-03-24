@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+@import url('https://fonts.googleapis.com/css?family=Yantramanav');
+h1 {
+    text-align: center;
+    background-color: white;
+    font-family:'Cinzel', serif;
+    border:solid black;
+}
+
+body {
+      background: linear-gradient(to right,orange, yellow);
+}
+
+.mdy{
+    text-align:center;
+    margin: 0 auto
+    width:400px;
+    height:400px;
+    
+}
+.subjects {
+    font-family: 'Yantramanav', sans-serif;
+    font-size:20px;
+    background-color:white;
+    border: 1px solid black;
+    color:#000080;
+}
+.teachers {
+    font-family: 'Yantramanav', sans-serif;
+    font-size:20px;
+    Background-color:white;
+    border:1px solid black;
+    color:#000080;
+}
+.button  {
+    float:left;
+}
+h2 {
+    color:#000080;
+}

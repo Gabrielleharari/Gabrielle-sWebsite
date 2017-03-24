@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Faster+One');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+h1 {
+    text-align:center;
+    color:black;
+    border: 4px solid black;
+    background-color:silver;
+    font-size: 50px;
+    font-family: 'Faster One', cursive;
+}
+h2 {
+    background-color: hotpink;
+    width:200px;
+    border:2px solid;
+}
+
+.genres {
+    background-color: silver;
+    border:solid black;
+    Font-family: 'Quicksand', sans-serif;;
+    Font-size:18px;
+    width:250px;
+}
+
+body {
+      background: linear-gradient(to right,pink, hotpink);
+}
+
+
+#dance {
+    background-color: white;
+    border:2px solid black;
+    font-family: 'Source Serif Pro', serif;
+    font-size:25px;
+}
+
